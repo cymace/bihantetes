@@ -93,5 +93,16 @@ body{
         text-align: left;
        }
    }
+   #site-header{
+    background-image: url("/medias/couverture-mobile.jpeg");
+    padding: 20px;
+    height: 400px;
+    .site-title{
+        font-size: 32px;
+    }
+    .site-slogan{
+        font-size: 22px;
+    }
+}
 }
 
