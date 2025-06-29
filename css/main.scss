@@ -1,0 +1,97 @@
+---
+# Only the main Sass file needs front matter
+---
+@charset "utf-8";
+
+
+
+// Our variables
+$base-font-family:  Lato;
+$base-font-size:   18px;
+
+$title-font-family:  Barriecito;
+$title-font-size:   48px;
+
+$small-font-size:  $base-font-size * 0.875;
+$base-line-height: 1.5;
+
+$spacing-unit:     30px;
+
+$text-color:       #111;
+$background-color: #fdfdfd;
+$brand-color:      #2a7ae2;
+
+$grey-color:       #828282;
+$grey-color-light: lighten($grey-color, 40%);
+$grey-color-dark:  darken($grey-color, 25%);
+
+// Width of the content area
+$content-width:    1000px;
+
+$on-palm:          823px;
+$on-laptop:        900px;
+
+
+
+// Using media queries with like this:
+// @include media-query($on-palm) {
+//     .wrapper {
+//         padding-right: $spacing-unit / 2;
+//         padding-left: $spacing-unit / 2;
+//     }
+// }
+@mixin media-query($device) {
+    @media screen and (max-width: $device) {
+        @content;
+    }
+}
+
+
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import
+        "base",
+        "header",
+        "accueil"
+;
+
+
+body{
+    color: black;
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    nav a{
+        color : white !important;
+    }
+
+    .site-title{
+        font-family: $title-font-family;
+        font-size: $title-font-size;
+    }
+}
+
+.main-section{
+    h2{
+        margin-top: 30px;
+        margin-bottom: 10px;
+    }
+}
+
+
+@include media-query($on-palm) {
+   
+   main *{
+    font-size : 20px;
+    h2{
+        font-size : 26px;
+       }
+       p{
+        font-size : 18px;
+        text-align: left;
+       }
+   }
+}
+

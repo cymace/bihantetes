@@ -1,0 +1,6 @@
+# Site settings
+title: Bi Han Têtes
+slogan: Hameau léger à Penmarch
+sass:
+    load_paths:
+        - css
