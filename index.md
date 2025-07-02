@@ -7,7 +7,7 @@ layout: accueil
 
 Avant de prendre contact, merci de prendre connaissance du contexte du projet :  [ une présentation est disponible ici](medias/PresentationBiHanTetes.pdf) 
 <br> 
-En complément, voici également le  [dossier de l'appel à projet de la mairie](medias/AAPPenmarch.pdf) 
+En complément, voici également la  [présentation de l'appel à projet faite par Hameaux Légers](medias/AAPPenmarch.pdf) 
 
 
 ## Rejoignez-nous
