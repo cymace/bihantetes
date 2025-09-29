@@ -8,7 +8,8 @@ layout: accueil
 Avant de prendre contact, merci de prendre connaissance du contexte du projet :  [ une présentation est disponible ici](medias/PresentationBiHanTetes.pdf). 
 <br> 
 En complément, voici également la  [présentation de l'appel à projet faite par Hameaux Légers](medias/AAPPenmarch.pdf).
-
+<br> 
+Et pour finir, voici un [ flyer explicatf](medias/Flyer_Portes_Ouvertes.pdf)  qui sera détaillé lors des rencontres du 4/5 Octobre
 
 ## Rejoignez-nous
 
@@ -18,7 +19,7 @@ Si vous êtes intéressé.e.s pour intégrer le collectif, envoyez nous un email
  - la taille et le type d'habitat que vous aimeriez avoir (si vous le savez déjà)
 
 <br>
-Un temps de rencontre est d'ores et déjà prévu **le week-end du 4/5 Octobre** dans le cadre des portes ouvertes de l'habitat participatif (informations à venir sur : [https://www.habitatparticipatif-ouest.fr](https://www.habitatparticipatif-ouest.fr/))
+Un temps de rencontre est d'ores et déjà prévu **le week-end du 4/5 Octobre de 14h à 17h** dans le cadre des portes ouvertes de l'habitat participatif ( [https://www.habitatparticipatif-ouest.fr](https://www.habitatparticipatif-ouest.fr/))
 
 
 ## Au plaisir d'échanger!
