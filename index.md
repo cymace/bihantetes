@@ -13,7 +13,7 @@ Ce projet comporte l’implantation de neuf habitats réversibles, dans un souci
 
 ## Informez-vous
 
-Nous travaillons de paire avec la [municipalité de Penmarc'h](https://www.penmarch.bzh/)  ainsi que [l'association hameau léger](https://hameaux-legers.org/) afin que l'installation se fasse dans les meilleurs conditions.
+Nous travaillons de paire avec la [municipalité de Penmarc'h](https://www.penmarch.bzh/)  ainsi que [l'association Hameaux légers](https://hameaux-legers.org/) afin que l'installation se fasse dans les meilleurs conditions.
 
 Futur.e.s voisin.e.s, penmarchais.es, nous sommes disponibles pour échanger et répondre à vos questions.  <br> <br> 
 
