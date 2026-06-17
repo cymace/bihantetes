@@ -3,6 +3,11 @@ title: accueil
 layout: accueil
 ---
 
+## Actualités
+
+Nous proposerons un temps d'information convivial autour d'un café/gateaux le dimanche 5 juillet de 11h à 13h à la [Maison Pour Tous de Penmarc'h](https://maps.app.goo.gl/uYSS8KQi75Z7aJDUA) (en face de la Mairie).
+
+
 ## Qui sommes nous
 
 Nous sommes un collectif d'habitants travaillant à l'élaboration du futur éco-hameau de Penmarc’h situé rue des Alouettes.
